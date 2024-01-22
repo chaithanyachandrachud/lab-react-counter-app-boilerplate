@@ -24,7 +24,7 @@ class CounterComponent extends React.Component{
     render(){
         return(
             <div>
-                <h1>
+                <h1 id='counter-app'>
                     Counter App
                 </h1>
                 <p>
